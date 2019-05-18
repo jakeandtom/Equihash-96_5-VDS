@@ -1,3 +1,14 @@
+# about miner
+
+The debug.log will be outputed some useful infomation when you start miner in qt or vdsd.
+
+masternode winners => the masternode payment to
+
+mempool => transaction hash and hex
+
+coinbase? I belive you can do it.
+
+
 # Build instructions:
 
 ### Dependencies:
